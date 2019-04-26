@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414906108448",
+    "firebase_url": "https://trackdevices-1556178150987.firebaseio.com",
+    "project_id": "trackdevices-1556178150987",
+    "storage_bucket": "trackdevices-1556178150987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414906108448:android:dca3d7be3255a257",
+        "android_client_info": {
+          "package_name": "in.rittz.devicetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414906108448-qp080ussblhgkt2naregn1c7qegls8ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBr1cafBjnIaJIP7LzhrOVXEsT8T1P88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414906108448-qp080ussblhgkt2naregn1c7qegls8ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
